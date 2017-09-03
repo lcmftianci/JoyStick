@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\SwarmAI.js">
+    <Files>
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\AI.js" Line="32" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\AttackMoveController.js" Line="15" Column="21" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\BuzzerKamikazeControllerAndAi.js" Line="15" Column="28" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\DisableOutsideRadius.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\MechAttackMoveController.js" Line="20" Column="35" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\PatrolMoveController.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\PatrolPoint.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\PatrolRoute.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\SpiderAttackMoveController.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\SpiderReturnMoveController.js" Line="1" Column="1" />
+      <File FileName="C:\Users\Public\Documents\Unity Projects\4-0_AngryBots\Assets\Scripts\AI\SwarmAI.js" Line="107" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
